@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 import java.awt.*;
 import java.util.Scanner;

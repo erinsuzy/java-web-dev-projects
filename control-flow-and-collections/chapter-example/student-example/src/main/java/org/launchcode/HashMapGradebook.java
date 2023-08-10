@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 import java.util.HashMap;
 import java.util.Map;

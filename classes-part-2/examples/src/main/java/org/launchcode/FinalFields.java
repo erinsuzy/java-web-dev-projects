@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 //This code will not run - that is intentional. This is to help you explore access modifiers and fields
 

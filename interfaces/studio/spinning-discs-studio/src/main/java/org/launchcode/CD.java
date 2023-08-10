@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 public class CD {
     // TODO: Implement your custom interface.

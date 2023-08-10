@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 import java.util.Scanner;
 public class Alice {
@@ -19,7 +19,7 @@ public class Alice {
         Integer index = bookSen.indexOf(word);
         Integer length = word.length();
         System.out.println("Your search term first appears at index " + index + ". Your term is " + length + " characters long.");
-        String modifiedSentence = bookSen.replace(word, "");
+        String modifiedSentence = bookSen.replace(word,"");
         System.out.println(modifiedSentence);
 
     }

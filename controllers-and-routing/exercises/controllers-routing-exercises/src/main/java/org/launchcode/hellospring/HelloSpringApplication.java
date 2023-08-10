@@ -1,4 +1,4 @@
-package org.launchcode.hellospring;
+package org.launchcode.studios.hellospring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.launchcode.controllers;
+package org.launchcode.studios.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

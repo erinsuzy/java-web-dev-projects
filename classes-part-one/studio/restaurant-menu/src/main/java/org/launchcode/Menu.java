@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.studios;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
