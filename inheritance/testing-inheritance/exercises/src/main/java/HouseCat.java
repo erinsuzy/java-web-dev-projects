@@ -1,7 +1,5 @@
 package main.java;
 
-import main.java.Cat;
-
 public class HouseCat extends Cat {
     private String name;
     private String species = "Felis catus";
@@ -21,6 +19,6 @@ public class HouseCat extends Cat {
     }
 
     public String purr() {
-        return "I'm a main.java.HouseCat";
+        return "I'm a main.java.java.HouseCat";
     }
 }
