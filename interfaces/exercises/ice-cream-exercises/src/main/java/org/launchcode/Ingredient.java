@@ -1,4 +1,4 @@
-package org.launchcode.studios;
+package org.launchcode;
 
 import java.util.ArrayList;
 
